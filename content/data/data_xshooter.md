@@ -6,7 +6,7 @@ author: ["Alejandra Melo","Felipe Ávila-Vera"]
 description: "This dataset contains all the links to the still private reduce spectra of quasars."
 summary: "This dataset contains all the links to the still private reduce spectra of quasars."
 editPost:
-    URL: "https://github.com/felavila/felavila.github.io/content/courses/data_xshooter.md"
+    URL: "https://github.com/felavila/felavila.github.io/blob/main/content/data/data_xshooter.md"
     Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false

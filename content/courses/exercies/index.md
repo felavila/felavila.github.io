@@ -24,7 +24,7 @@ cover:
     alt: "Exercies Astronomia General"
     relative: true
 editPost:
-     URL: "https://github.com/felavila/felavila.github.io/content/courses/exercies/index.md" 
+     URL: "https://github.com/felavila/felavila.github.io/blob/main/content/courses/exercies/index.md" 
      Text: "Course details"
 #showToc: true table of conent.
 disableAnchoredHeadings: false
