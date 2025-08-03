@@ -58,7 +58,7 @@ params:
     profileMode:
           enabled: true
           title: Phd student Felipe Ávila-Vera
-          subtitle: I am currently a PhD student at the Instituto de Física y Astronomía, Universidad de Valparaíso, Chile. My research focuses on the study of quasars and the strong and microlensing effects that affect them, using spectral analysis and high-resolution imaging. I leverage GPU-accelerated computing with my code, [SHEAP](https://github.com/felavila/sheap/), to fit large volumes of AGNs spectral data. I have also developed [Tuskitoo](https://github.com/felavila/Tuskitoo) for the analysis of 2D high resolution spectral data and [QuMa](https://github.com/felavila/quma) for strong lens modeling and microlensing analysis."
+          subtitle: I am currently a PhD student at the Instituto de Física y Astronomía, Universidad de Valparaíso, Chile. My research focuses on the study of quasars and the strong and microlensing effects that affect them, using spectral analysis and high-resolution imaging. I leverage GPU-accelerated computing with my code, [SHEAP](https://github.com/felavila/sheap/), to fit large volumes of AGNs spectral data. I have also developed [Tuskitoo](https://github.com/felavila/Tuskitoo) for the analysis of 2D high resolution spectral data and [QuMa](https://github.com/felavila/quma) for strong lens modeling and microlensing analysis.
           imageUrl: "picture_I.jpeg" #it is in static
           imageWidth: 160
           imageHeight: 160
